@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://senatornaman.github.io/csb-7ly4t/static/css/main.d9b712ee.chunk.css",
+    "main.js": "https://senatornaman.github.io/csb-7ly4t/static/js/main.8dce7966.chunk.js",
+    "main.js.map": "https://senatornaman.github.io/csb-7ly4t/static/js/main.8dce7966.chunk.js.map",
+    "runtime-main.js": "https://senatornaman.github.io/csb-7ly4t/static/js/runtime-main.c36406a0.js",
+    "runtime-main.js.map": "https://senatornaman.github.io/csb-7ly4t/static/js/runtime-main.c36406a0.js.map",
+    "static/js/2.1b0386d2.chunk.js": "https://senatornaman.github.io/csb-7ly4t/static/js/2.1b0386d2.chunk.js",
+    "static/js/2.1b0386d2.chunk.js.map": "https://senatornaman.github.io/csb-7ly4t/static/js/2.1b0386d2.chunk.js.map",
+    "index.html": "https://senatornaman.github.io/csb-7ly4t/index.html",
+    "static/css/main.d9b712ee.chunk.css.map": "https://senatornaman.github.io/csb-7ly4t/static/css/main.d9b712ee.chunk.css.map",
+    "static/js/2.1b0386d2.chunk.js.LICENSE.txt": "https://senatornaman.github.io/csb-7ly4t/static/js/2.1b0386d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c36406a0.js",
+    "static/js/2.1b0386d2.chunk.js",
+    "static/css/main.d9b712ee.chunk.css",
+    "static/js/main.8dce7966.chunk.js"
+  ]
+}
